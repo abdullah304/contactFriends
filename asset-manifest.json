@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/contactfriends/static/css/main.f50371bd.css",
+    "main.js": "/contactfriends/static/js/main.c3fb4e7e.js",
+    "static/js/787.b36a2cba.chunk.js": "/contactfriends/static/js/787.b36a2cba.chunk.js",
+    "static/media/MonallizaRegular-RpD5W.woff": "/contactfriends/static/media/MonallizaRegular-RpD5W.6fcffddc51833db8051a.woff",
+    "index.html": "/contactfriends/index.html",
+    "main.f50371bd.css.map": "/contactfriends/static/css/main.f50371bd.css.map",
+    "main.c3fb4e7e.js.map": "/contactfriends/static/js/main.c3fb4e7e.js.map",
+    "787.b36a2cba.chunk.js.map": "/contactfriends/static/js/787.b36a2cba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f50371bd.css",
+    "static/js/main.c3fb4e7e.js"
+  ]
+}
