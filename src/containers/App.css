@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Monalliza Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Monalliza Regular'), url('MonallizaRegular-RpD5W.woff') format('woff');
+    }
+
+
+
+
+    h1 {
+        font-family: Monalliza Regular;
+        font-weight: 200;
+        color: #c37521;
+    }
